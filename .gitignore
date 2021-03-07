@@ -19,7 +19,7 @@
 !*.sh
 !*.c
 !*.h
-
+!README.md
 
 !.gitignore
 
